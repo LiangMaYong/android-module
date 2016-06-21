@@ -4,7 +4,8 @@ android module 安卓快速开发框架，这是一个纯代码的安卓快速�
 ##框架定位
 首先android-module一个安卓快速开发框架，追求开发的简单高效。
 
-设计思想：一个模块一个Activity
+设计思想：一个模块一个Activity，用fragment实现模块流程和页面跳转
+
 
 
 ##技术交流
